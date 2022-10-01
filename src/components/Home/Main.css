@@ -1,5 +1,39 @@
 .jumbotron{
+    background-image: url("https://www.nasa.gov/sites/default/files/thumbnails/image/main_image_star-forming_region_carina_nircam_final-5mb.jpg");
+    /* background-size:cover; */
+    background-size: 100%;
+    
+    display: flex;
+    align-items: center;
+    justify-content: center;
     width: 100%;
-    height: 100vh;
-    background-color: yellow;
+    
+    background-color: #000000;
+}
+.Meio{
+    width: 60%;
+    height: auto;
+    margin-top: 5%;
+    margin-bottom: 5%;
+    color: white;
+}
+
+.Meio iframe{
+    width:900px; 
+    height:500px;
+}
+.texto{
+    text-align: center;
+}
+@media screen and (max-width: 600px) {
+    .Meio iframe{
+        width: auto;
+        height: auto;
+    }
+}
+@media screen and (max-width: 1120px) {
+    .Meio iframe{
+        width: auto;
+        height: auto;
+    }
 }

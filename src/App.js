@@ -1,6 +1,7 @@
 import './App.css';
 import Menu from './components/Home/Menu';
-import Main from './components/Home/Main'
+import Rodape from './components/Home/Rodape';
+
 import { BrowserRouter } from 'react-router-dom';
 import Rotas from './Routes';
 function App() {
@@ -11,6 +12,7 @@ function App() {
             <Menu/>
             <Rotas/>
             {/* <Main/> */}
+            <Rodape/>
             
         </div>
     </BrowserRouter>
