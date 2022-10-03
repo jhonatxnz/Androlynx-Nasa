@@ -9,8 +9,7 @@ export default function Menu(props) {
         <div className='texto'>
           <h1>James Webb</h1>
         </div>
-
-        <h2>Já ouviu falar do Telescópio James Webb? Atualmente é o maior e mais poderoso do mundo e devido a sua estrutura e potência ele precisa operar no espaço, além de contar com mais de dezoito espelhos, nos quais captura as imagens do cosmos. E para explicar o funcionamento desse aparelho desenvolvemos um jogo. Em "NOME" o jogador se passa por um cientista contratado pela NASA para operá-lo, com o objetivo de encontrar novas galáxia, planetas, constelações etc… E todo o seu funcionamento e funções será explicado no jogo, trazendo a sensação de um cientista e explorador espacial mais real, além da possibilidade de descobrimos mais sobre o espaço e sobre James Webb.</h2>
+        <h2>Ever heard of the James Webb Telescope? It is currently the largest and most powerful in the world and due to its structure and power it needs to operate in space, in addition to having more than eighteen mirrors, in which it captures images of the cosmos. And to explain how this device works, we developed a game. In "Androlynx" the player poses as a scientist hired by NASA to operate it, with the aim of finding new galaxies, planets, constellations etc... And all its functioning and functions will be explained in the game, bringing the feeling of a scientist and more real space explorer, plus the possibility of finding out more about space and about James Webb.</h2>
 
         <div className='texto'>
           <iframe src="https://www.youtube.com/embed/tgbNymZ7vqY" title='bla'></iframe>

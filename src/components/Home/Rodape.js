@@ -12,7 +12,7 @@ export default function Rodape(props) {
                 </div>
 
                 <div>
-                    <h2><a href="https://2022.spaceappschallenge.org/challenges/2022-challenges/through-the-looking-glass/teams/androlynx/project">Nosso projeto</a> </h2>
+                    <h2><a href="https://2022.spaceappschallenge.org/challenges/2022-challenges/through-the-looking-glass/teams/androlynx/project">Our project</a> </h2>
                     
                 </div>
 
@@ -27,7 +27,7 @@ export default function Rodape(props) {
                 </div>
 
                 <div>
-                    <h2><a href="/colaboradores">Colaboradores</a> </h2>
+                    <h2><a href="/colaboradores">Collaborators</a> </h2>
                 </div>
             </div>
         </footer>

@@ -1,0 +1,67 @@
+@import url("https://fonts.googleapis.com/css2?family=Lato&display=swap%27");
+.Meio2{
+    width: 90%;
+    height: auto;
+    margin-top: 5%;
+    margin-bottom: 5%;
+    color: white;
+    
+}
+.img{
+    float: top;
+    width: 180px;
+    height: 180px;
+    padding: 50px;
+
+}
+
+.conteudoDeImagens{
+    font-family: 'Lato', sans-serif;
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    margin-right: 10px;
+    
+}
+
+.imgComTexto{
+    flex-direction: column;
+
+}
+
+.nome{
+    text-align: center;
+}
+#titulo{
+    text-align: center;
+    font-family: 'Lato', sans-serif;
+    padding-bottom: 30px;
+}
+#titulo2{
+    text-align: center;
+    font-family: 'Lato', sans-serif;
+    padding-top: 50px;
+}
+#quemSomos{
+    width: 60%;
+    font-family: 'Lato', sans-serif;
+    font-size: 20px;
+    text-align: center;
+    margin-left: 20%;
+}
+
+
+@media screen and (max-width: 600px) {
+    .jumbotron{
+        background-image: url("https://www.nasa.gov/sites/default/files/thumbnails/image/main_image_star-forming_region_carina_nircam_final-5mb.jpg");
+        background-size: cover;
+    }
+    .Meio2 iframe{
+        width: auto;
+        height: auto;
+    }
+    .conteudoDeImagens{
+        display: flex;
+        flex-direction: column;
+    }
+}

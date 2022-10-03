@@ -22,7 +22,9 @@ nav div.logo {
     height: auto;
     width: auto;
 }
-
+nav a{
+    text-decoration: none;
+}
 .links {
     display: flex;
     align-items: center;
