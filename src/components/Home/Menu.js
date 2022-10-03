@@ -15,7 +15,7 @@ export default function Menu(props) {
         
         <div className="links">
           <a className="link" href="https://www.figma.com/file/7rQkXe62DQ33x7La8Dm4tD/Androlynx---game?node-id=0%3A1">Figma</a>
-          <a className="link" href="https://www.youtube.com/embed/tgbNymZ7vqY">Trailer</a>
+          <a className="link" href="">Trailer</a>
           <a className="link" href="/colaboradores"><span>Collaborators</span></a>
         </div>
       </div>
