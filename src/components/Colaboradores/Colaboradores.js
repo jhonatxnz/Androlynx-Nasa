@@ -20,28 +20,28 @@ export default function Colaboradores(props) {
           <div className='conteudoDeImagens'>
 
             <div className='imgComTexto'>
-              <img src={Img1} className='img' />
+              <img src={Img1} className='img' alt="imagem"/>
               <h1 className='nome'>Guilherme</h1>
             </div>
             <div className='imgComTexto'>
-              <img src={Img2} className='img' />
+              <img src={Img2} className='img' alt="imagem"/>
               <h1 className='nome'>Nicolas</h1>
             </div>
             <div className='imgComTexto'>
-              <img src={Img3} className='img' />
+              <img src={Img3} className='img' alt="imagem"/>
               <h1 className='nome'>João Guilherme</h1>
             </div>
             <div className='imgComTexto'>
-              <img src={Img4} className='img' />
+              <img src={Img4} className='img' alt="imagem"/>
               <h1 className='nome'>Jhonatan</h1>
             </div>
             <div className='imgComTexto'>
-              <img src={Img5} className='img' />
+              <img src={Img5} className='img' alt="imagem"/>
               <h1 className='nome'>Matheus Traiba</h1>
             </div>
             <div className='imgComTexto'>
-              <img src={Img6} className='img' />
-              <h1 className='nome'>João Vitors</h1>
+              <img src={Img6} className='img' alt="imagem"/>
+              <h1 className='nome'>João Vitor</h1>
             </div>
           </div>
           <div id="titulo2">
