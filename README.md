@@ -12,4 +12,4 @@ This project was a front-end project developed during the 2022 edtion of the "Na
 
 ## 🌎 Members
 
-[Guilherme Campos](https://github.com/Gui-Felippe), [Jhonatan William](https://github.com/jhonatxnz), [João Guilherme](https://github.com/Joao2708-P), [João Maia](https://github.com/JMaia7), [Matheus Traiba](https://github.com/Traiba), [Nicolas Militão](https://github.com/nimilitao)
+[Guilherme Campos](https://github.com/Gui-Felippe), [Jhonatan Willian](https://github.com/jhonatxnz), [João Guilherme](https://github.com/Joao2708-P), [João Maia](https://github.com/JMaia7), [Matheus Traiba](https://github.com/Traiba), [Nicolas Militão](https://github.com/nimilitao)
