@@ -5,6 +5,7 @@
 </p>
 
 This project was a front-end project developed during the 2022 edtion of the "Nasa: Space Apps Challenge" with the aim of sharing our proposed game interface to teach about the operation of the James Webb telescope and its great potential.
+<br>
 Este projeto foi um projeto front-end desenvolvido durante a edição 2022 do "Nasa: Space Apps Challenge" com o objetivo de compartilhar nossa interface de jogo proposta para ensinar sobre o funcionamento do telescópio James Webb e seu grande potencial.
 ## 🔭 You can see the complete project at:
 
