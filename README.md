@@ -20,26 +20,6 @@ Conteúdo Educacional: Além do jogo, integramos conteúdo educacional para forn
 
 Design Amigável ao Usuário: Nossa interface de front-end foi projetada para ser amigável ao usuário e acessível, garantindo que os jogadores possam navegar facilmente pelo jogo e aprender sobre o funcionamento do telescópio.
 
-#Como Jogar
-Visite nosso site do projeto ou faça o download do aplicativo do jogo.
-Crie uma conta ou jogue como convidado.
-Explore os controles e recursos do telescópio por meio da interface do jogo.
-Complete desafios e missões para desbloquear informações detalhadas sobre o JWST.
-
-#Desenvolvimento Futuro
-Estamos comprometidos em melhorar continuamente e expandir nosso projeto. Planos futuros de desenvolvimento incluem:
-
-Adicionar mais níveis e desafios de jogo.
-Incorporar dados em tempo real e atualizações das operações do JWST.
-Aprimorar o conteúdo educacional para atender a diferentes faixas etárias e níveis de conhecimento.
-
-#Envolva-se
-Damos as boas-vindas a contribuições, feedback e colaborações de entusiastas do espaço, educadores e desenvolvedores que compartilham nossa paixão pela exploração espacial e comunicação científica. Junte-se a nós nesta emocionante jornada para divulgar o Telescópio Espacial James Webb e seu incrível potencial.
-
-#Contate-nos
-E-mail: [Seu Endereço de E-mail]
-Site do Projeto: [URL do Site do Projeto]
-Repositório no GitHub: [Link para o Repositório no GitHub]
 Agradecemos pelo seu interesse em nosso projeto e estamos ansiosos para compartilhar as maravilhas do Telescópio Espacial James Webb com o mundo!
 ## 🔭 You can see the complete project at:
 
